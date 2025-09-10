@@ -449,13 +449,13 @@
                     <key>Comment</key>
                     <string>V2.2.0 | AirportItlwm.kext</string>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/AirportItlwm</string>
                     <key>MaxKernel</key>
-                    <string></string>
+                    <string>22.99.99</string>
                     <key>MinKernel</key>
-                    <string></string>
+                    <string>22.00.00</string>
                     <key>PlistPath</key>
                     <string>Contents/Info.plist</string>
                 </dict>
@@ -1488,13 +1488,13 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>FVF028609GU0000A8</string>
+                <string></string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
                 <integer>0</integer>
                 <key>ROM</key>
-                <data>YP7F0KCO</data>
+                <data></data>
                 <key>SpoofVendor</key>
                 <false/>
                 <key>SystemMemoryStatus</key>
@@ -1502,9 +1502,9 @@
                 <key>SystemProductName</key>
                 <string>MacBookAir9,1</string>
                 <key>SystemSerialNumber</key>
-                <string>FVFD2EYPMNHP</string>
+                <string></string>
                 <key>SystemUUID</key>
-                <string>5E38B84C-C662-4267-8D2F-A50B46DDCF5F</string>
+                <string></string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
@@ -1814,8 +1814,6 @@
                     <string>RuntimeCode</string>
                 </dict>
             </array>
-            <key>Unload</key>
-            <array/>
         </dict>
     </dict>
 </plist>
